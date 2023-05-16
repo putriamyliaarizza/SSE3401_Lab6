@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564183219875",
+    "project_id": "putri-brew-crew",
+    "storage_bucket": "putri-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564183219875:android:1889a6c976d771cd77c916",
+        "android_client_info": {
+          "package_name": "com.putriamylia.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564183219875-a1289t6hl8edlnscsok892kn37l0on36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGcUC4jrUWSN-fe-GvqzLl6CXbauCHTak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564183219875-a1289t6hl8edlnscsok892kn37l0on36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
